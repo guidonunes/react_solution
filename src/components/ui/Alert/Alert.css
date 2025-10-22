@@ -1,0 +1,15 @@
+.alert {
+  padding: 12px 20px;
+  border-radius: 4px;
+  margin: 8px 0;
+  font-size: 1rem;
+}
+
+.alert-info,
+.alert-success,
+.alert-warning,
+.alert-error {
+  color: #222;
+  background: #fff;
+  border: 1px solid #ccc;
+}
